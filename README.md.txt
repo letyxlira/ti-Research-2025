@@ -30,7 +30,8 @@ This research analyzed 5 Junior Developer job openings in the city of São Paulo
 
 ## 📄 Reports and Charts
 - [Full Report in PDF](https://drive.google.com/file/d/1UL0dhIgo37_3lbbvXkuv9IW1zFb17gXv/view?usp=sharing)
-- Hard and Soft Skills Charts (folder `imagens/`)
+- Hard and Soft Skills Charts (folder `charts-`)
 
 ## 📌 Notes
 - Increasing trend for Cloud Computing and Fullstack, even in junior positions.
+
